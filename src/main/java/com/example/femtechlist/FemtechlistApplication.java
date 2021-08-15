@@ -18,7 +18,27 @@ public class FemtechlistApplication implements CommandLineRunner {
     private UserRepository userRepository;
     @Override
     public void run(String... args) throws Exception {
-        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Nicole","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
         this.userRepository.save(new User("Maria Angela","Gonzalvo", "43" , "España", "ESO", "Carrer Joan del Bruc, 153 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Emma","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Janine","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Eliana","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
+        this.userRepository.save(new User("Paula","Flores", "22" , "España", "ESO", "Carrer Valencia, 34 Barcelona" , "Femtech" ));
     }
 }
